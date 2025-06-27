@@ -19,7 +19,6 @@ function App() {
             <img
               src={process.env.PUBLIC_URL + "/IMG_20230127_183601.jpg"}
               alt="Foto de perfil"
-              className="avatar"
             />
           </div>
         </div>
