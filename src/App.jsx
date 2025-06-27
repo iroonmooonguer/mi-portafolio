@@ -19,6 +19,7 @@ function App() {
             <img
               src="IMG_20230127_183601.jpg"
               alt="Foto de perfil"
+              className="avatar"
             />
           </div>
         </div>
