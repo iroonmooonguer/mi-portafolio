@@ -17,7 +17,7 @@ function App() {
         <div className="avatar-wrapper">
           <div className="avatar-inner">
             <img
-              src="/IMG_20230127_183601.jpg"
+              src={process.env.PUBLIC_URL + "/IMG_20230127_183601.jpg"}
               alt="Foto de perfil"
               className="avatar"
             />
